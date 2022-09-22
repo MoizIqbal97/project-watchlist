@@ -92,7 +92,7 @@ The app can be configured in any standard way an ASP.NET Core application can. T
 
 ```yaml
 OutboundEmail:
-  ServiceName: SIMUN
+  ServiceName: WATCHLIST
   FromName: No Reply
   FromAddress: noreply@example.com
   ReplyToAddress: ""
